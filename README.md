@@ -2,7 +2,7 @@
 # Usage
 
 ```
-> python main.py <inpt image with transparence> <outputfile>
+> python main.py <input image with transparence> <outputfile>
 ```
   
 # Output structure
